@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
- s.name         = "LLLaunchAd"
+ s.name         = "Swag"
  s.version      = "1.0.0"
  s.summary      = "A iOS LaunchAd show of MyPodDemo."
  s.homepage     = "https://github.com/wei307449934/swag.git"
